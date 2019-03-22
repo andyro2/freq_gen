@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">freq_gen</string>
+    <string name="play_record"><![CDATA[play & record]]></string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="play">play</string>
+</resources>
